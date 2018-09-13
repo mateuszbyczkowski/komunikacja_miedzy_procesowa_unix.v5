@@ -1,7 +1,7 @@
-# Komunikacja między procesowa na wzór systemu Unix.v5
+# Interprocess communication modeled on Unix system mechanisms.
 
-Projekt wykonany w ramach przedmiotu Systemy Operacyjne.
-Otrzymana ocena: 4,5.
-Język programowania: C++.
-Środowisko: Visual Studio 2015.
+Project made as part of Operating Systems labs.
+Received note: 4,5/5.0.
+Programming language: C++.
+Environment: Visual Studio 2015.
 
